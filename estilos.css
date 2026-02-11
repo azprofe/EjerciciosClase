@@ -1,0 +1,35 @@
+body {
+    font-family: Arial,sans-serif;
+    font-size: x-large;
+}
+
+.contenedor{
+    margin: 100px auto;
+    width: 50%;
+    /*border: 1px solid red;*/
+    text-align: center;
+}
+
+.input {
+    margin-top: 10px;
+}
+
+.policia{
+    margin-left: 200px;
+}
+
+.respuesta{
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 75px;
+}
+
+.formulario {
+    margin-top: 10px;
+}
+
+.titulo {
+    background-color: aquamarine;
+    text-align: center;
+    color: hotpink;
+}
